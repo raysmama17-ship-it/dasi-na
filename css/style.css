@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+/* =======================================
+   전역 글꼴 설정: Noto Sans KR 적용
+   ======================================= */
+* {
+    font-family: 'Noto Sans KR', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding: 20px;
+    line-height: 1.6;
+}
+/*header. nav, main, section, footer*/
